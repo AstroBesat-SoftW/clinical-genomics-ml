@@ -2,6 +2,7 @@
 An end-to-end machine learning pipeline for classifying clinical genetic variants as pathogenic or benign using bioinformatic feature enrichment.
 
 
+<img width="1600" height="872" alt="image" src="https://github.com/user-attachments/assets/f8e21e3c-3e87-43fb-a0cd-41becfa75d61" />
 
 # TEKNOFEST 2026 | Sağlıkta Yapay Zeka Yarışması
 
