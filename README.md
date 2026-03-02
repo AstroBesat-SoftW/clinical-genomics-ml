@@ -23,7 +23,7 @@ Bu proje, 2026 yılı şartnamesinde belirtilen sağlık problemlerine yapay zek
 ## 🛠 Teknik Özellikler
 Yarışma standartları gereği proje şu aşamaları kapsamaktadır:
 - **Veri İşleme:** Ham sağlık verilerinin gürültüden arındırılması ve modele uygun hale getirilmesi.
-- **Model Mimarisi:** [Buraya kullandığın mimariyi yaz: Örn. ResNet, Vision Transformer veya XGBoost] kullanılarak optimize edilmiş öğrenme süreçleri.
+- **Model Mimarisi:** [GİZLİ] kullanılarak optimize edilmiş öğrenme süreçleri.
 - **Etik ve Gizlilik:** Veri işleme süreçleri KVKK ve etik kurallar çerçevesinde simüle edilmiştir.
 
 ## 📂 Proje Yapısı
